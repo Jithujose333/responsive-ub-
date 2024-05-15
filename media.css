@@ -1,0 +1,255 @@
+@media (max-width :768px){
+
+
+
+    .headersection{
+        display: none;
+    }
+    .tab-head{
+        display: contents;
+        width: auto;
+        height: auto;
+
+    }
+    .navbar {
+        width: auto;
+        height: auto;
+        background: black;
+        
+    }
+    .navbar-brand{
+        margin-left: 2rem;
+    }
+    .nav-item{
+        color: #fff;
+    }
+    .navbar-toggler-icon{
+        background-color: #fff;
+    }
+   
+    
+    .navbar a {
+        
+        color: #fff;
+    }
+  
+    
+    
+    .ride-section{
+        display: block;
+        align-items: left;
+        padding-left: 1rem;
+        width: auto;
+    }
+    
+    .ride-section .ride-right{
+       align-items: left;
+       display: grid;
+       padding-left: 1rem;
+       
+        
+    }
+    .ride-section .ride-right h1{
+        font-size: 1.50rem;
+    }
+    .ride-section .ride-right img{
+        align-items: center;
+        padding-left: 1rem;
+        
+    }
+    .ride-section .ride-left{
+       padding-left: 1rem;
+        font-size: medium;
+        align-items: initial
+    }
+    .ride-section .ride-left h1{
+        font-size: 1.50rem;
+    }
+   .started-container {
+    display: flex;
+    flex-direction: column;
+    padding-left: 1rem;
+    font-size: 100%;
+    
+    width: auto;
+    
+   }
+   .started-right h1{
+    font-size: 1.50rem;
+    
+   }
+   .started-left{
+    margin-right: 2rem;
+   }
+   .started-right{
+   display: inline;
+   }
+   .started-left h1{
+    font-size: 1.50rem;
+   }
+   .started-container .ride-left h1{
+    font-size: 1.50rem;
+   }
+
+   .started-container .ride-right img{
+    width: 90%;
+    margin-top: 3.938rem;
+    margin-bottom: 3.938rem;
+    height: auto;
+    
+   }
+   .started-container .ride-right{
+    font-size: medium;
+   }
+   .row{
+    font-size: 100%;
+
+   }
+   .qr-section .row{
+    height: auto;
+    width: auto;
+    display: none;
+   }
+   .qr-left{
+    display: grid;
+   }
+   .qr-right{
+    display: grid;
+    margin-left: 9.5rem;
+   }
+   .footer{
+    width: 100%;
+    align-items: center;
+    padding: 1rem;
+   }
+   
+
+}
+@media (max-width :576px){
+
+
+
+
+
+    .headersection{
+        display: none;
+    }
+    .tab-head{
+        display: contents;
+        width: auto;
+        height: auto;
+
+    }
+    .navbar {
+        width: auto;
+        height: 80%;
+        background: black;
+        
+    }
+    .navbar-brand{
+        margin-left: 2rem;
+    }
+    .nav-item{
+        color: #fff;
+    }
+    .navbar-toggler-icon{
+        background-color: #fff;
+        
+    }
+   
+    
+    .navbar a {
+        
+        color: #fff;
+    }
+  
+    
+    
+    .ride-section{
+        display: block;
+        align-items: left;
+        padding-left: 1rem;
+        width: auto;
+    }
+    
+    .ride-right{
+       align-items: left;
+       display: grid;
+       padding-left: 1rem;
+       
+        
+    }
+    .ride-right h1{
+        font-size: 1.00rem;
+    }
+    .ride-right img{
+        align-items: center;
+        padding-left: 1rem;
+        
+    }
+    
+    .ride-left{
+       padding-left: 1rem;
+        font-size: small;
+        align-items: initial
+    }
+    .ride-left h1{
+        font-size: 1.00rem;
+    }
+   .started-container {
+    display: flex;
+    flex-direction: column;
+    padding-left: 1rem;
+    font-size: 100%;
+    
+    
+    
+   }
+   .started-right h1{
+    font-size: 1.00rem;
+    
+   }
+   .started-left{
+    margin-right: 2rem;
+   }
+   .started-right{
+   display: inline;
+   
+   }
+   .started-left h1{
+    font-size: 1.00rem;
+   }
+   .started-container .ride-left h1{
+    font-size: 1.00rem;
+   }
+   .started-container .ride-right img{
+    width: auto;
+   }
+   
+    
+   
+   .row{
+    font-size: 100%;
+
+   }
+   .qr-section .row{
+    height: auto;
+    width: auto;
+    display: none;
+   }
+   .qr-left{
+    display: grid;
+   }
+   .qr-right{
+    display: grid;
+    margin-left: 9.5rem;
+   }
+   .footer{
+    width: auto;
+    align-items: center;
+    padding: 1rem;
+   }
+
+
+
+}
